@@ -10,10 +10,13 @@ namespace GajiKaryawan
     {
         static void Main(string[] args)
         {
+            // Input Gaji yang akan dihitung
             Console.WriteLine("Masukkan Gaji yang akan dihitung...");
             int gaji;
             gaji = int.Parse(Console.ReadLine());
             Console.WriteLine($"Gaji Pokok Anda Rp.{gaji}. Anda akan mendapatkan Tunjangan dan Bonus berikut :");
+            // Sistem Penggajian
+            // Hitung Tunjangan, Bonus, dan PPH
             int tunjangan;
             tunjangan = gaji / 20;
             int bonus;
@@ -22,8 +25,10 @@ namespace GajiKaryawan
             int pphInt = (int) persenpph;
             int pph;
             pph = gaji / pphInt;
+            // Output Hasil perhitungan
             Console.WriteLine($"Tunjangan = Rp.{tunjangan}");
             Console.WriteLine($"Bonus = Rp.{bonus}");
+            // Hitung total gaji
             Console.WriteLine("Adapaun total gaji yang anda dapatkan...");
             int totalgaji;
             totalgaji = gaji + tunjangan + bonus;
