@@ -6,3 +6,11 @@ C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKarya
 C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.csproj.CoreCompileInputs.cache
 C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.exe
 C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.pdb
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\obj\Debug\GajiKaryawan.csproj.AssemblyReference.cache
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\obj\Debug\GajiKaryawan.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\obj\Debug\GajiKaryawan.csproj.CoreCompileInputs.cache
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\obj\Debug\GajiKaryawan.exe
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\obj\Debug\GajiKaryawan.pdb
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\bin\Debug\GajiKaryawan.exe.config
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\bin\Debug\GajiKaryawan.exe
+C:\Users\ADAM GHAFARA\source\repos\GajiKaryawan\P2_2_1214064\bin\Debug\GajiKaryawan.pdb
